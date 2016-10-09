@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwingRenameFiles.iml" filepath="$PROJECT_DIR$/SwingRenameFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwingRenameFiles.iml" filepath="$PROJECT_DIR$/.idea/SwingRenameFiles.iml" />
     </modules>
   </component>
 </project>
